@@ -6,16 +6,6 @@
   Find the closest recycling point to you! 🌿
 </h3>
 
-<br>
-
-<p align="center">
-  <a href="#Overview">Overview</a> •
-  <a href="#Screenshots">Screenshots</a> •
-  <a href="#Getting-Started">Getting Started</a> •
-  <a href="#Technologies">Technologies</a> •
-  <a href="#License">License</a> 
-</p>
-
 ## 💻 Overview
 The main goal of Ecoleta is to help people to find companies and entities that colect organic and inorganic material. 
 
