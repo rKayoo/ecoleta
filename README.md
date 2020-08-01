@@ -48,4 +48,4 @@ The project used the following technologies:
 - [SQLite3](https://www.sqlite.org)
 
 ## 📝 LICENSE
-This project is licensed under the MIT License - see the [LICENSE.md]() file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/rKayoo/ecoleta/blob/master/LICENSE.md) file for details
